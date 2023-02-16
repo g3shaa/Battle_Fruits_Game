@@ -24,3 +24,34 @@ E:\Illya 8-V #14\Нова папка\Fruits_Game\Fruits_Game\obj\Debug\net6.0\re
 E:\Illya 8-V #14\Нова папка\Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.pdb
 E:\Illya 8-V #14\Нова папка\Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.genruntimeconfig.cache
 E:\Illya 8-V #14\Нова папка\Fruits_Game\Fruits_Game\obj\Debug\net6.0\ref\Fruits_Game.dll
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\bin\Debug\net6.0\appsettings.json
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\bin\Debug\net6.0\Fruits_Game.staticwebassets.runtime.json
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\bin\Debug\net6.0\Fruits_Game.exe
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\bin\Debug\net6.0\Fruits_Game.deps.json
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\bin\Debug\net6.0\Fruits_Game.runtimeconfig.json
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\bin\Debug\net6.0\Fruits_Game.dll
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\bin\Debug\net6.0\Fruits_Game.pdb
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.AssemblyInfoInputs.cache
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.AssemblyInfo.cs
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.RazorAssemblyInfo.cache
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.RazorAssemblyInfo.cs
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\staticwebassets\msbuild.Fruits_Game.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\staticwebassets\msbuild.build.Fruits_Game.props
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fruits_Game.props
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fruits_Game.props
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\scopedcss\bundle\Fruits_Game.styles.css
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\scopedcss\projectbundle\Fruits_Game.bundle.scp.css
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.dll
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\refint\Fruits_Game.dll
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.pdb
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\Fruits_Game.genruntimeconfig.cache
+C:\Users\Geshata\Desktop\Battle_Fruits_Game\Fruits_Game\obj\Debug\net6.0\ref\Fruits_Game.dll

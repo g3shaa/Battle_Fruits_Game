@@ -1,17 +1,17 @@
 ﻿@{
-    ViewBag.Title = "Game Play";
+    ViewBag.Title = "Бум-бум";
 }
 
-<h2>Game Play</h2>
+<h2>Бум-бум</h2>
 
 @if (!ViewBag.gameOver)
 {
     <form action="/Home/FireTop">
-        Top: <input type="range" name="position" min="0" max="100" />
+        Нагоре: <input type="range" name="position" min="0" max="100" />
         <input type="submit" value="Нагоре" />
     </form>
     <form action="/Home/FireBottom">
-        Bottom: <input type="range" name="position" min="0" max="100" />
+        Надолу: <input type="range" name="position" min="0" max="100" />
         <input type="submit" value="Надолу" />
     </form>
 }
@@ -23,12 +23,12 @@
 
 @if (ViewBag.gameOver)
 {
-    <h2>Game Over!</h2>
+    <h2>Опитай пак! Загуби!</h2>
     <img src="~/images/explosion.png" />
 }
 else
 {
-    <h2>Battle Field</h2>
+    <h2>Бойно поле</h2>
     for (var row = 0; row < ViewBag.rowsCount; row++)
     {
         for (int col = 0; col < ViewBag.colsCount; col++)
@@ -37,5 +37,5 @@ else
         }
         <br />
     }
-    <h2>Score: <b>@ViewBag.score</b></h2>
+    <h2>Резултат: <b>@ViewBag.score</b></h2>
 }

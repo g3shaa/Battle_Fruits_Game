@@ -58,12 +58,33 @@ namespace Fruits_Game.Controllers {
             var row = startRow;
             while (row >= 0 && row < rowsCount) {
                 var fruit = fruits[row, col];
-                if (fruit == "apple" || fruit == "banana" || fruit == "orange" || fruit == "kiwi") {
-                    score++; 
+                if (fruit == "apple")
+                {
+                    score+= 1;
                     fruits[row, col] = "empty";
                     break;
                 }
-                else if (fruit == "dynamite") { gameOver = true; break; }
+                else if (fruit == "banana")
+                {
+                    score += 3;
+                    fruits[row, col] = "empty";
+                    break;
+                }
+                else if (fruit == "orange")
+                {
+                    score += 4;
+                    fruits[row, col] = "empty";
+                    break;
+                }
+                else if (fruit == "kiwi")
+                {
+                    score += 5;
+                    fruits[row, col] = "empty";
+                    break;
+                }
+                else if (fruit == "dynamite") {
+                    gameOver = true; break;
+                }
                 row = row + step;
             }
             return RedirectToAction("Index");
