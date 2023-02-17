@@ -14,6 +14,7 @@
         Надолу: <input type="range" name="position" min="0" max="100" />
         <input type="submit" value="Надолу" />
     </form>
+
 }
 
 <form action="/Home/Reset">
@@ -23,7 +24,7 @@
 
 @if (ViewBag.gameOver)
 {
-    <h2>Опитай пак! Загуби!</h2>
+    <h2>Опитай пак! Резултат: <b>@ViewBag.score</b></h2>
     <img src="~/images/explosion.png" />
 }
 else

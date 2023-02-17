@@ -64,6 +64,7 @@ namespace Fruits_Game.Controllers
         {
             return Fire(position, rowsCount - 1, -1);
         }
+    
 
         private ActionResult Fire(int position, int startRow, int step)
         {
