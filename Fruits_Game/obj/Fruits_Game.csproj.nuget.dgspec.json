@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geshata\\Desktop\\Battle_Fruits_Game\\Fruits_Game\\Fruits_Game.csproj": {}
+    "C:\\Users\\Geshata\\Desktop\\github\\Battle_Fruits_Game\\Fruits_Game\\Fruits_Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geshata\\Desktop\\Battle_Fruits_Game\\Fruits_Game\\Fruits_Game.csproj": {
+    "C:\\Users\\Geshata\\Desktop\\github\\Battle_Fruits_Game\\Fruits_Game\\Fruits_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geshata\\Desktop\\Battle_Fruits_Game\\Fruits_Game\\Fruits_Game.csproj",
+        "projectUniqueName": "C:\\Users\\Geshata\\Desktop\\github\\Battle_Fruits_Game\\Fruits_Game\\Fruits_Game.csproj",
         "projectName": "Fruits_Game",
-        "projectPath": "C:\\Users\\Geshata\\Desktop\\Battle_Fruits_Game\\Fruits_Game\\Fruits_Game.csproj",
+        "projectPath": "C:\\Users\\Geshata\\Desktop\\github\\Battle_Fruits_Game\\Fruits_Game\\Fruits_Game.csproj",
         "packagesPath": "C:\\Users\\Geshata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geshata\\Desktop\\Battle_Fruits_Game\\Fruits_Game\\obj\\",
+        "outputPath": "C:\\Users\\Geshata\\Desktop\\github\\Battle_Fruits_Game\\Fruits_Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
