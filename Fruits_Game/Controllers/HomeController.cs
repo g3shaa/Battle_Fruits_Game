@@ -64,7 +64,11 @@ namespace Fruits_Game.Controllers
         {
             return Fire(position, rowsCount - 1, -1);
         }
-    
+        public ActionResult FireMiddle(int position)
+        {
+            return Fire(position, rowsCount / 2, 0);
+        }
+
 
         private ActionResult Fire(int position, int startRow, int step)
         {
@@ -73,12 +77,13 @@ namespace Fruits_Game.Controllers
             while (row >= 0 && row < rowsCount)
             {
                 var fruit = fruits[row, col];
-                if (fruitPoints.ContainsKey(fruit))
+                if (fruit != null && fruitPoints.ContainsKey(fruit))
                 {
                     score += fruitPoints[fruit];
                     fruits[row, col] = "empty";
                     break;
                 }
+
                 else if (fruit == "dynamite")
                 {
                     gameOver = true;

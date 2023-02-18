@@ -1,18 +1,79 @@
 ﻿@{
     ViewBag.Title = "Бум-бум";
 }
+<style>
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
 
+h2 {
+  color: #333;
+}
+
+form {
+  display: inline-block;
+  margin: 20px;
+}
+
+input[type="range"] {
+  width: 200px;
+  height: 10px;
+  background-color: #ddd;
+  border-radius: 5px;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  width: 20px;
+  height: 20px;
+  background-color: #2196f3;
+  border-radius: 50%;
+  -webkit-appearance: none;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  background-color: #2196f3;
+  border-radius: 50%;
+}
+
+input[type="submit"] {
+  background-color: #2196f3;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+img {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 2px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+</style>
 <h2>Бум-бум</h2>
 
 @if (!ViewBag.gameOver)
 {
     <form action="/Home/FireTop">
         Нагоре: <input type="range" name="position" min="0" max="100" />
-        <input type="submit" value="Нагоре" />
+        <input type="submit" value="Стреляй" />
     </form>
     <form action="/Home/FireBottom">
         Надолу: <input type="range" name="position" min="0" max="100" />
-        <input type="submit" value="Надолу" />
+        <input type="submit" value="Стреляй" />
+    </form>
+    <form action="/Home/FireMiddle">
+        В средата: <input type="range" name="position" min="0" max="100" />
+        <input type="submit" value="Стреляй" />
     </form>
 
 }
@@ -40,3 +101,4 @@ else
     }
     <h2>Резултат: <b>@ViewBag.score</b></h2>
 }
+
